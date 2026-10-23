@@ -1,5 +1,7 @@
 # ZentroMart Chatbot
 
+[GITHUB repository url](https://github.com/mdasmar/ZentroMart-Chatbot)
+
 ZentroMart Chatbot is a Streamlit customer-support assistant for a synthetic e-commerce dataset. It combines retrieval-augmented generation (RAG), Azure OpenAI, customer CSV data, and  speech input/output.
 
 The project is an educational prototype. The order lookup and ticket tools are offline simulations and are not production authentication, payment, or customer-support systems.
