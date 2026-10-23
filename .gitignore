@@ -1,0 +1,6 @@
+.env
+chroma_db/
+.vscode/
+*.mp4
+ZentroMart Chatbot Project Report.pdf
+sample_output/

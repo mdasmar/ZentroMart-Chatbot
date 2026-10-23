@@ -1,0 +1,15 @@
+gnani-vachana
+pandas
+langchain
+python-dotenv
+langchain-chroma
+sentence-transformers
+ipykernel
+langchain-huggingface
+langchain-text-splitters
+langchain-openai
+langgraph
+streamlit
+torchvision
+sounddevice 
+soundfile
